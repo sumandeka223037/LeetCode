@@ -8,9 +8,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sumandeka223037/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/sumandeka223037/LeetCode/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sumandeka223037/LeetCode/tree/master/0027-remove-element) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sumandeka223037/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sumandeka223037/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
