@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sumandeka223037/LeetCode/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/sumandeka223037/LeetCode/tree/master/0258-add-digits) |
 ## Array
 |  |
 | ------- |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/sumandeka223037/LeetCode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/sumandeka223037/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sumandeka223037/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sumandeka223037/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
