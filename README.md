@@ -11,16 +11,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sumandeka223037/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/sumandeka223037/LeetCode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/sumandeka223037/LeetCode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/sumandeka223037/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/sumandeka223037/LeetCode/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sumandeka223037/LeetCode/tree/master/0027-remove-element) |
+| [0287-find-the-duplicate-number](https://github.com/sumandeka223037/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sumandeka223037/LeetCode/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sumandeka223037/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/sumandeka223037/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/sumandeka223037/LeetCode/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
@@ -34,4 +37,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sumandeka223037/LeetCode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/sumandeka223037/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
