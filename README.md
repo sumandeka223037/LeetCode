@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sumandeka223037/LeetCode/tree/master/0027-remove-element) |
 | [0287-find-the-duplicate-number](https://github.com/sumandeka223037/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sumandeka223037/LeetCode/tree/master/0344-reverse-string) |
+| [1894-merge-strings-alternately](https://github.com/sumandeka223037/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sumandeka223037/LeetCode/tree/master/0344-reverse-string) |
+| [1894-merge-strings-alternately](https://github.com/sumandeka223037/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
 | ------- |
