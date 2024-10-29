@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sumandeka223037/LeetCode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/sumandeka223037/LeetCode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/sumandeka223037/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/sumandeka223037/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sumandeka223037/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sumandeka223037/LeetCode/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/sumandeka223037/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/sumandeka223037/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/sumandeka223037/LeetCode/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
