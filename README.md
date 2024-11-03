@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/sumandeka223037/LeetCode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/sumandeka223037/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sumandeka223037/LeetCode/tree/master/0367-valid-perfect-square) |
+| [1013-fibonacci-number](https://github.com/sumandeka223037/LeetCode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/sumandeka223037/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sumandeka223037/LeetCode/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/sumandeka223037/LeetCode/tree/master/1013-fibonacci-number) |
 ## Brainteaser
 |  |
 | ------- |
@@ -85,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sumandeka223037/LeetCode/tree/master/0292-nim-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sumandeka223037/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sumandeka223037/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
