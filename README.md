@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/sumandeka223037/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0728-self-dividing-numbers](https://github.com/sumandeka223037/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/sumandeka223037/LeetCode/tree/master/1013-fibonacci-number) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sumandeka223037/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Array
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/sumandeka223037/LeetCode/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/sumandeka223037/LeetCode/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sumandeka223037/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sumandeka223037/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sumandeka223037/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sumandeka223037/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 <!---LeetCode Topics End-->
