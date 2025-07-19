@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/sumandeka223037/LeetCode/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/sumandeka223037/LeetCode/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/sumandeka223037/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1580-shuffle-the-array](https://github.com/sumandeka223037/LeetCode/tree/master/1580-shuffle-the-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sumandeka223037/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
